@@ -1,4 +1,4 @@
-package com.github.jstorts.consistenthash
+package dev.jstorts.consistenthash
 
 class VirtualNode<T : Node>(private val physicalNode: T, private val replicaIndex: Int) : Node {
 

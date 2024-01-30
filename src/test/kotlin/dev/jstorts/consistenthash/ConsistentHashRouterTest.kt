@@ -1,4 +1,4 @@
-package com.github.jstorts.consistenthash
+package dev.jstorts.consistenthash
 
 import org.junit.jupiter.api.Test
 import java.util.*

@@ -1,6 +1,5 @@
-package com.github.jstorts.consistenthash
+package dev.jstorts.consistenthash
 
 interface Node {
-
     fun getKey(): String
 }

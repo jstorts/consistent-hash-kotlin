@@ -1,4 +1,4 @@
-package com.github.jstorts.consistenthash
+package dev.jstorts.consistenthash
 
 import java.security.MessageDigest
 import java.security.NoSuchAlgorithmException

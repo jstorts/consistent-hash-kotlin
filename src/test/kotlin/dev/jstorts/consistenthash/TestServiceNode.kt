@@ -1,4 +1,4 @@
-package com.github.jstorts.consistenthash
+package dev.jstorts.consistenthash
 
 
 class TestServiceNode(private val idc: String, private val ip: String, private val port: Int) : Node {

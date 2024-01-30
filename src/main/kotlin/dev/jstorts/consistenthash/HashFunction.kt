@@ -1,6 +1,5 @@
-package com.github.jstorts.consistenthash
+package dev.jstorts.consistenthash
 
 interface HashFunction {
-
     fun hash(key: String): Long
 }
